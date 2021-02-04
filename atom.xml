@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>冰城梦雨</title>
+  
+  <subtitle>冰城梦雨</subtitle>
+  <link href="https://bcmy.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://bcmy.xyz/"/>
+  <updated>2021-02-04T13:02:27.937Z</updated>
+  <id>https://bcmy.xyz/</id>
+  
+  <author>
+    <name>冰城梦雨</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://bcmy.xyz/posts/4a17b156.html"/>
+    <id>https://bcmy.xyz/posts/4a17b156.html</id>
+    <published>2021-01-30T05:14:23.000Z</published>
+    <updated>2021-02-04T13:02:27.937Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="HEXO" scheme="https://bcmy.xyz/categories/HEXO/"/>
+    
+    
+    <category term="HEXO" scheme="https://bcmy.xyz/tags/HEXO/"/>
+    
+    <category term="Markdown" scheme="https://bcmy.xyz/tags/Markdown/"/>
+    
+  </entry>
+  
+</feed>
