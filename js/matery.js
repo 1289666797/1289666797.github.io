@@ -104,7 +104,7 @@ $(function () {
             selector: '.img-item',
             // 启用字幕
             subHtmlSelectorRelative: true
-            showThumbByDefault: false   //这句加上
+            // showThumbByDefault: true   //这句加上
         });
 
         $(document).find('img[data-original]').each(function(){
