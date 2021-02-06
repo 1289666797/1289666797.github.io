@@ -592,10 +592,10 @@
     //     notify: 'false' === 'true',
     //     verify: 'false' === 'true',
     //     visitor: 'true' === 'true',
-    //     avatar: 'retro',
+    //     avatar: 'mp',
     //     pageSize: '10',
     //     lang: 'zh-cn',
-    //     placeholder: 'just go go'
+    //     placeholder: '昵称填写qq号可以显示qq头像哦~'
     // });
 
     // new Valine({
@@ -605,10 +605,10 @@
     //     notify: 'false' === 'true',
     //     verify: 'false' === 'true',
     //     visitor: 'true' === 'true',
-    //     avatar: 'retro',
+    //     avatar: 'mp',
     //     pageSize: '10',
     //     lang: 'zh-cn',
-    //     placeholder: 'just go go',
+    //     placeholder: '昵称填写qq号可以显示qq头像哦~',
     //     enableQQ: true,
         // emojiCDN: '//i0.hdslb.com/bfs/emote/', 
         // // 表情title和图片映射
@@ -676,15 +676,42 @@
         notify: 'false' === 'true',
         verify: 'false' === 'true',
         visitor: 'true' === 'true',
-        avatar: 'retro',
+        avatar: 'mp',
 		metaPlaceholder: {"nick":"昵称/QQ号o(*￣▽￣*)o","mail":"你的邮箱( ‵▽′)ψ","link":"你的网站url(/▽＼)"},
         pageSize: '10',
         lang: 'zh-cn',
-        placeholder: 'just go go',
+        placeholder: '昵称填写qq号可以显示qq头像哦~',
     	tagMeta: ["博主","小伙伴","访客"],     //标识字段名
 		master: 'f499cc0a03a52fc9b0bd771445ac06f0',  //博主邮箱md5
 		friends: ["1b70cff8a0d6be2ac8dfb4fa6931830a"],  //小伙伴邮箱Md5
         enableQQ: true,
+
+
+
+    
+// let metaPlaceholder = {"nick":"昵称/QQ号(必填)","mail":"邮箱(必填)","link":"网址(https://)"} ;
+// //这里要换行
+// new Valine({
+//         el: '#vcomments',
+//         appId: '3nBEOXAv8HPEhylEk1RpmCQY-MdYXbMMI',
+//         appKey: 'GbeFPpm20Byn2pu5gushh9cu',
+//         notify: 'false' === 'true',
+//         verify: 'false' === 'true',
+//         visitor: 'true' === 'true',
+//         avatar: 'mp',
+//         pageSize: '10',
+//         lang: 'zh-CN',
+//         placeholder: '昵称填写qq号可以显示qq头像哦~',
+//         meta: ["nick", "mail", "link"],
+//         recordIP: 'false' === 'true',
+//         enableQQ: 'mp',
+//         requiredFields: ["f499cc0a03a52fc9b0bd771445ac06f0"],
+//         master: ["f499cc0a03a52fc9b0bd771445ac06f0"],
+//         friends: ["1b70cff8a0d6be2ac8dfb4fa6931830a", "1b70cff8a0d6be2ac8dfb4fa6931830b"],
+//         tagMeta: ["博主", "小伙伴", "访客"],
+//         metaPlaceholder: metaPlaceholder,
+
+    
         //jsdelivr永远滴神
         emojiCDN: 'https://cdn.jsdelivr.net/gh/GAATTC0/ValineCDN@master/', 
         // 表情title和图片映射
