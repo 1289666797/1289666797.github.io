@@ -6,7 +6,7 @@
   <link href="https://bcmy.xyz/atom.xml" rel="self"/>
   
   <link href="https://bcmy.xyz/"/>
-  <updated>2021-02-04T13:02:27.937Z</updated>
+  <updated>2021-02-07T14:38:19.637Z</updated>
   <id>https://bcmy.xyz/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简易函数信号发生器的设计</title>
+    <link href="https://bcmy.xyz/posts/md1289.html"/>
+    <id>https://bcmy.xyz/posts/md1289.html</id>
+    <published>2021-02-07T09:17:31.000Z</published>
+    <updated>2021-02-07T14:38:19.637Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;一、设计思路与方案&quot;&gt;&lt;a href=&quot;#一、设计思路与方案&quot; class=&quot;headerlink&quot; title=&quot;一、设计思路与方案&quot;&gt;&lt;/a&gt;&lt;strong&gt;一、设计思路与方案&lt;/strong&gt;&lt;/h3&gt;&lt;h4 id=&quot;1-系统框图及总原理图设计&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="模电" scheme="https://bcmy.xyz/categories/%E6%A8%A1%E7%94%B5/"/>
+    
+    
+    <category term="信号发生器" scheme="https://bcmy.xyz/tags/%E4%BF%A1%E5%8F%B7%E5%8F%91%E7%94%9F%E5%99%A8/"/>
+    
+    <category term="运算电路" scheme="https://bcmy.xyz/tags/%E8%BF%90%E7%AE%97%E7%94%B5%E8%B7%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
